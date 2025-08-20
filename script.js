@@ -41,8 +41,8 @@ function updatePlaceholder() {
 
 function renderPresets() {
   const game = gameSelect.value
-  presetsBox.innerHTML = '' // limpa os chips antigos
-
+  presetsBox.innerHTML = '' 
+  
   ;(PRESETS[game] || []).forEach(txt => {
     const b = document.createElement('button')
     b.type = 'button'

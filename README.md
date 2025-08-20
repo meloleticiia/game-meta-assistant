@@ -98,17 +98,18 @@ Essa chamada retorna o texto da IA, que é renderizado na tela.
 
 ## Estrutura do projeto
 
+```text
 NLW/
-├── index.html # Estrutura principal da aplicação
-├── style.css # Estilos da aplicação
-├── script.js # Lógica em JavaScript
-└── assets/ # Imagens e ícones
+├── index.html      # Estrutura principal da aplicação
+├── style.css       # Estilos da aplicação
+├── script.js       # Lógica em JavaScript
+└── assets/         # Imagens e ícones
 
 game-meta-assistant/
-├── assets/        # Imagens (logo, background)
-├── index.html     # Estrutura da página
-├── style.css      # Estilos (layout, animações, chips)
-└── script.js      # Lógica (presets, prompts, chamada Gemini, copiar)
+├── assets/         # Imagens (logo, background)
+├── index.html      # Estrutura da página
+├── style.css       # Estilos (layout, animações, chips)
+└── script.js       # Lógica (presets, prompts, chamada Gemini, copiar)
 
 # Roadmap
 

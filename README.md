@@ -104,15 +104,6 @@ NLW/
 ├── script.js # Lógica em JavaScript
 └── assets/ # Imagens e ícones
 
----
-
-📂 Estrutura do projeto
-NLW/
-├── index.html     # Estrutura principal da aplicação
-├── style.css      # Estilos da aplicação
-├── script.js      # Lógica em JavaScript
-└── assets/        # Imagens e ícones
-
 game-meta-assistant/
 ├── assets/        # Imagens (logo, background)
 ├── index.html     # Estrutura da página
